@@ -1,4 +1,4 @@
-package Basic;public class FunctionOverloading {
+package Basic_of_Function;public class FunctionOverloading {
     public static void main(String[] args) {
         fun("samuel");
         fun(24);

@@ -1,4 +1,4 @@
-package Basic;
+package Basic_of_Function;
 
 public class ShadowingFunctionScope {
     //But see here we can access the variable through all  in this function

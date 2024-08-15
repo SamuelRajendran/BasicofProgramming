@@ -1,4 +1,4 @@
-package Basic;
+package Basic_of_Function;
 import java.util.Scanner;
 
 public class AirethematicOperator {

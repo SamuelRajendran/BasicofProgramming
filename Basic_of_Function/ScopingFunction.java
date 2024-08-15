@@ -1,4 +1,4 @@
-package Basic;
+package Basic_of_Function;
 
 public class ScopingFunction {
     public static void main(String[] args) {

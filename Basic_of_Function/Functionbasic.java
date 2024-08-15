@@ -1,10 +1,7 @@
-package Basic;
-import java.util.*;
-
+package Basic_of_Function;
 
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Functionbasic {
