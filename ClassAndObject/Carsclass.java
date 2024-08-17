@@ -12,5 +12,9 @@ public class Carsclass {
         this.Price=Price;
         this.Colour=Colour;
     }
+    //constructor calling another constructor
+    Carsclass(){
+        this("dodo",152,214.898f,"green");
+    }
 
 }

@@ -7,5 +7,8 @@ public class Mainclass {
         System.out.println(Audi.Colour);
         System.out.println(Audi.Model);
         System.out.println(Audi.Price);
+        Carsclass random=new Carsclass();
+        //here we calling the another constructor by just using (this) and assigning the value.
+        System.out.println(random.Model);
     }
 }
